@@ -19,6 +19,6 @@ public class Solution {
         while (n < 100) {
             System.out.println(quote);
             n++;
-        }//напишите тут ваш код
+        }
     }
 }

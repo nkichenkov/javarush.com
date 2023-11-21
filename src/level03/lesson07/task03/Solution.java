@@ -18,9 +18,9 @@ public class Solution {
         Scanner scan = new Scanner(System.in);
         double a = scan.nextDouble();
         double b = scan.nextDouble();
-        if (Math.abs(b - a) < 0.000001)//напишите тут ваш код
+        if (Math.abs(b - a) < 0.000001)
             System.out.println("числа равны");
-        else//напишите тут ваш код
+        else
             System.out.println("числа не равны");
     }
 }

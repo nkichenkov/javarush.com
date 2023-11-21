@@ -47,7 +47,6 @@ public class Solution {
                 secondMin = tmp;
             }
         }
-
         System.out.println(secondMin);
     }
 }

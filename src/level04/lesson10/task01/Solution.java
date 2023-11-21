@@ -24,7 +24,7 @@ public class Solution {
         int speed = console.nextInt();
         double x = speed * 3.6;
         int i = (int) Math.round(x);
-        System.out.println(i);//напишите тут ваш код
+        System.out.println(i);
 
     }
 }

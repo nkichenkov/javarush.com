@@ -25,7 +25,7 @@ public class Solution {
         for (int i = start; i < end; i++) {
             sum += i % multiple == 0 ? i : 0;
             continue;
-        }//напишите тут ваш код
+        }
 
         System.out.println(sum);
     }

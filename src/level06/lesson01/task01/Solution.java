@@ -10,6 +10,6 @@ package level06.lesson01.task01;
 public class Solution {
     public static void main(String[] args) {
         int[] intArray = new int[10];
-        double[] doubleArray = new double[10];//напишите тут ваш код
+        double[] doubleArray = new double[10];
     }
 }

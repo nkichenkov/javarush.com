@@ -27,7 +27,7 @@ public class Solution {
         }
         for (int i = 0; i < secondArray.length; i++) {
             resultArray[i + firstArray.length] = secondArray[i];
-        }//напишите тут ваш код
+        }
         for (int i = 0; i < resultArray.length; i++) {
             System.out.print(resultArray[i] + ", ");
         }

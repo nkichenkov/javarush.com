@@ -24,9 +24,9 @@ public class Solution {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.nextLine();
-        if (s.equalsIgnoreCase(secret))//напишите тут ваш код
+        if (s.equalsIgnoreCase(secret))
             System.out.println("доступ разрешен");
-        else//напишите тут ваш код
+        else
             System.out.println("доступ запрещен");
     }
 }

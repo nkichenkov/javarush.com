@@ -35,7 +35,7 @@ public class Solution {
             if (i < min)
                 min = i;
         }
-        System.out.println(min);//напишите тут ваш код
+        System.out.println(min);
 
     }
 }

@@ -37,7 +37,6 @@ public class Solution {
         } else {
             a = (int) Math.floor(glass);
         }
-        System.out.println(a);//напишите тут ваш код
-
+        System.out.println(a);
     }
 }

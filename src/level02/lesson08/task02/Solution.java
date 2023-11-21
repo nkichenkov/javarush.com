@@ -30,7 +30,7 @@ public class Solution {
         int b = console.nextInt();
         int c = console.nextInt();
 
-        System.out.println((a + b + c) / 3);//напишите тут ваш код
+        System.out.println((a + b + c) / 3);
 
     }
 }

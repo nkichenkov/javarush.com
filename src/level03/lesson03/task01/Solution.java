@@ -22,6 +22,6 @@ public class Solution {
         if (temp < 0)
             System.out.println(cold);
         else
-            System.out.println(warm);//напишите тут ваш код
+            System.out.println(warm);
     }
 }

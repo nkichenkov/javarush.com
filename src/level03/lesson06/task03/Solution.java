@@ -47,6 +47,6 @@ public class Solution {
                         System.out.println("");
                 }
             }
-        }//напишите тут ваш код
+        }
     }
 }

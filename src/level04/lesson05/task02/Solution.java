@@ -36,7 +36,7 @@ public class Solution {
             if (i % 2 == 0 && i > max)
                 max = i;
         }
-        System.out.println(max);//напишите тут ваш код
+        System.out.println(max);
 
     }
 }

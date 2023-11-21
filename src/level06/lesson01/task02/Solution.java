@@ -21,7 +21,7 @@ public class Solution {
         strings[1] = ODD;
         strings[2] = EVEN;
         strings[3] = ODD;
-        strings[4] = EVEN;//напишите тут ваш код
+        strings[4] = EVEN;
 
         System.out.print("index = 0");
         System.out.println(" value = " + strings[0]);

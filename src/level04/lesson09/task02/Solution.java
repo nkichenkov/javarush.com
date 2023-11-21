@@ -27,7 +27,7 @@ public class Solution {
         int a = console.nextInt();
         int b = console.nextInt();
         double d = a / (b * 1.0);
-        System.out.println(d);//напишите тут ваш код
+        System.out.println(d);
 
     }
 }

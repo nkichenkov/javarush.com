@@ -29,7 +29,7 @@ public class Solution {
             }
             System.out.println();
             i++;
-        }//напишите тут ваш код
+        }
 
     }
 }

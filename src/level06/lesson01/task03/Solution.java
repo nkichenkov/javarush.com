@@ -13,7 +13,7 @@ public class Solution {
 
     public static void main(String[] args) {
         if (array[0] % 2 == 0) {
-            array[0] = -array[0];//напишите тут ваш код
+            array[0] = -array[0];
         }
         if (array[1] % 2 == 0) {
             array[1] = -array[1];

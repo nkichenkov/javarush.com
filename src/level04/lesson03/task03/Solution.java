@@ -29,7 +29,7 @@ public class Solution {
                 }
             }
         }
-        System.out.println(sum);//напишите тут ваш код
+        System.out.println(sum);
 
     }
 }

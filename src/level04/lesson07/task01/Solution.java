@@ -29,7 +29,7 @@ public class Solution {
             for (int x = 0; x < 10; x++)
                 System.out.println("8");
             System.out.println();
-        }//напишите тут ваш код
+        }
 
     }
 }

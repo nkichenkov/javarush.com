@@ -29,7 +29,7 @@ public class Solution {
         double pi = 3.14;
         int radius = console.nextInt();
         int s = (int) (pi * radius * radius);
-        System.out.println(s);//напишите тут ваш код
+        System.out.println(s);
 
     }
 }

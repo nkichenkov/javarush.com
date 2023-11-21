@@ -15,6 +15,6 @@ package level01.lesson04.task01;
 public class Solution {
     public static void main(String[] args) {
         int a = 1;
-        int b = 2;//напишите тут ваш код
+        int b = 2;
     }
 }

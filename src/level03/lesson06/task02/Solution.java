@@ -22,7 +22,7 @@ public class Solution {
         int age = scan.nextInt();
         boolean isYoung = (age < 20);
         boolean isOld = (age > 60);
-        if (isYoung || isOld)//напишите тут ваш код
+        if (isYoung || isOld)
             System.out.println("можно не работать");
     }
 }

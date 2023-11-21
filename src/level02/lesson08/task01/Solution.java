@@ -37,7 +37,7 @@ public class Solution {
 
         System.out.println(nameee);
         System.out.println(namee);
-        System.out.println(name);//напишите тут ваш код
+        System.out.println(name);
 
     }
 }

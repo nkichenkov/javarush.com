@@ -34,7 +34,7 @@ public class Solution {
         while (i < 10) {
             System.out.println(result);
             i++;
-        }//напишите тут ваш код
+        }
 
     }
 }

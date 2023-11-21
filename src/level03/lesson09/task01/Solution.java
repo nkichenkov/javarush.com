@@ -16,9 +16,9 @@ public class Solution {
         Scanner s = new Scanner(System.in);
         String a = s.nextLine();
         String b = s.nextLine();
-        if (a.equals(b))//напишите тут ваш код
+        if (a.equals(b))
             System.out.println("строки одинаковые");
-        else//напишите тут ваш код
+        else
             System.out.println("строки разные");
     }
 }

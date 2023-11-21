@@ -34,7 +34,7 @@ public class Solution {
             System.out.println(s);
             number--;
         }
-        while (number > 0 && number < 4);//напишите тут ваш код
+        while (number > 0 && number < 4);
 
     }
 }
