@@ -3,6 +3,7 @@ package level04.lesson08.task01;
 import java.util.Scanner;
 
 /*
+Условие задачи:
 В этой задаче нужно:
 
 Ввести с клавиатуры строку и число number, которое больше 0 и меньше 5.

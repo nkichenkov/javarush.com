@@ -3,6 +3,7 @@ package level04.lesson06.task02;
 import java.util.Scanner;
 
 /*
+Условие задачи:
 В методе main с клавиатуры считывается 3 целых числа: start, end (start <= end), multiple.
 Допиши программу, чтобы на экран выводилась сумма чисел от start (включительно) до end (не включительно), кратных multiple.
 Для этого используй цикл for.

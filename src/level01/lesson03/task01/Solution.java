@@ -1,6 +1,7 @@
 package level01.lesson03.task01;
 
 /*
+Условие задачи:
 Напиши программу, которая в методе main объявляет такие переменные:
 name типа String, age типа int и city типа String.
 

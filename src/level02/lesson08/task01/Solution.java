@@ -3,6 +3,7 @@ package level02.lesson08.task01;
 import java.util.Scanner;
 
 /*
+Условие задачи:
 Считай с клавиатуры три строки.
 А затем:
 

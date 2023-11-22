@@ -1,6 +1,7 @@
 package level06.lesson02.task01;
 
 /*
+Условие задачи:
 Реализовать метод main(String[]), в котором нужно скопировать содержимое массивов firstArray и secondArray
 в один массив resultArray.
 Массив firstArray должен быть в начале нового массива resultArray, а secondArray — после него.
